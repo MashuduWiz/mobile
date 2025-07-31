@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Mobile Inventory</string>
+    <string name="title_activity_main">Mobile Inventory</string>
+    <string name="package_name">com.mobileinventory.app</string>
+    <string name="custom_url_scheme">com.mobileinventory.app</string>
+</resources>
